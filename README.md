@@ -8,7 +8,7 @@
     color: #999;
     padding: 2px;">NLP民工的乐园</div>
 </center>
-<br>
+
 
 [![](https://img.shields.io/github/stars/fighting41love/funnlp?style=social)](https://github.com/fighting41love/funnlp)
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmountain-blue-64)](https://www.zhihu.com/people/mountain-blue-64)
