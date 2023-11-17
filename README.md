@@ -1,11 +1,11 @@
-<center>
+  <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./data/.logo图片/.img.jpg"width="180">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
+    display:    inline-block;
+    color: #999;   
     padding: 2px;">NLP民工的乐园</div>
 </center>
 
@@ -24,9 +24,9 @@
 在入门到熟悉NLP的过程中，用到了很多github上的包，遂整理了一下，分享在这里。
 
 很多包非常有趣，值得收藏，满足大家的收集癖！
-如果觉得有用，请分享并star:star:，谢谢！
+如果觉得有用，请分享并star:star:！
 
-长期不定时更新，欢迎watch和fork！:heart::heart::heart:
+欢迎watch和fork！:heart::heart::heart:
 
 |  :fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |  ----  |
